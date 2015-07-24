@@ -422,447 +422,665 @@ You're a womanizer
 Oh, womanizer, oh
 You're a womanizer, baby
 
-
-Escalus, Prince of Verona.
-Paris, a young Nobleman, kinsman to the Prince.
-Montague,}Heads of two Houses at variance with each other.
-Capulet, }
-An Old Man, Uncle to Capulet.
-Romeo, Son to Montague.
-Mercutio, Kinsman to the Prince, and Friend to Romeo.
-Benvolio, Nephew to Montague, and Friend to Romeo.
-Tybalt, Nephew to Lady Capulet.
-Friar Lawrence, a Franciscan.
-Friar John, of the same Order.
-Balthasar, Servant to Romeo.
-Sampson, Servant to Capulet.
-Gregory, Servant to Capulet.
-Peter, Servant to Juliet's Nurse.
-Abraham, Servant to Montague.
-An Apothecary.
-Three Musicians.
-Chorus.
-Page to Paris; another Page.
-An Officer.
-
-Lady Montague, Wife to Montague.
-Lady Capulet, Wife to Capulet.
-Juliet, Daughter to Capulet.
-Nurse to Juliet.
-
-Citizens of Verona; several Men and Women, relations to both
-houses; Maskers, Guards, Watchmen, and Attendants.
-
-
-
-SCENE.--During the greater part of the Play in Verona; once, in
-the Fifth Act, at Mantua.
-
-THE PROLOGUE
-
-[Enter Chorus.]
-
-Chor.
-Two households, both alike in dignity,
-  In fair Verona, where we lay our scene,
-From ancient grudge break to new mutiny,
-  Where civil blood makes civil hands unclean.
-From forth the fatal loins of these two foes
-  A pair of star-cross'd lovers take their life;
-Whose misadventur'd piteous overthrows
-  Doth with their death bury their parents' strife.
-The fearful passage of their death-mark'd love,
-  And the continuance of their parents' rage,
-Which but their children's end naught could remove,
-  Is now the two hours' traffic of our stage;
-The which, if you with patient ears attend,
-What here shall miss, our toil shall strive to mend.
-
-
-ACT I.
-
-Scene I. A public place.
-
-[Enter Sampson and Gregory armed with swords and bucklers.]
-
-Sampson.
-Gregory, o' my word, we'll not carry coals.
-
-Gregory.
-No, for then we should be colliers.
-
-Sampson.
-I mean, an we be in choler we'll draw.
-
-Gregory.
-Ay, while you live, draw your neck out o' the collar.
-
-Sampson.
-I strike quickly, being moved.
-
-Gregory.
-But thou art not quickly moved to strike.
-
-Sampson.
-A dog of the house of Montague moves me.
-
-Gregory.
-To move is to stir; and to be valiant is to stand:
-therefore, if thou art moved, thou runn'st away.
-
-Sampson.
-A dog of that house shall move me to stand:
-I will take the wall of any man or maid of Montague's.
-
-Gregory.
-That shows thee a weak slave; for the weakest goes to the
-wall.
-
-Sampson.
-True; and therefore women, being the weaker vessels,
-are ever thrust to the wall: therefore I will push Montague's men
-from the wall and thrust his maids to the wall.
-
-Gregory.
-The quarrel is between our masters and us their men.
-
-Sampson.
-'Tis all one, I will show myself a tyrant:
-when I have fought with the men I will be cruel with the maids,
-I will cut off their heads.
-
-Gregory.
-The heads of the maids?
-
-Sampson.
-Ay, the heads of the maids, or their maidenheads;
-take it in what sense thou wilt.
-
-Gregory.
-They must take it in sense that feel it.
-
-Sampson.
-Me they shall feel while I am able to stand:
-and 'tis known I am a pretty piece of flesh.
-
-Gregory.
-'Tis well thou art not fish; if thou hadst,
-thou hadst been poor-John.--Draw thy tool;
-Here comes two of the house of Montagues.
-
-Sampson.
-My naked weapon is out: quarrel! I will back thee.
-
-Gregory.
-How! turn thy back and run?
-
-Sampson.
-Fear me not.
-
-Gregory.
-No, marry; I fear thee!
-
-Sampson.
-Let us take the law of our sides; let them begin.
-
-Gregory.
-I will frown as I pass by; and let them take it as they
-list.
-
-Sampson.
-Nay, as they dare. I will bite my thumb at them; which is
-disgrace to them if they bear it.
-
-[Enter Abraham and Balthasar.]
-
-Abraham.
-Do you bite your thumb at us, sir?
-
-Sampson.
-I do bite my thumb, sir.
-
-Abraham.
-Do you bite your thumb at us, sir?
-
-Sampson.
-Is the law of our side if I say ay?
-
-Gregory.
-No.
-
-Sampson.
-No, sir, I do not bite my thumb at you, sir; but I bite my
-thumb, sir.
-
-Gregory.
-Do you quarrel, sir?
-
-Abraham.
-Quarrel, sir! no, sir.
-
-Sampson.
-But if you do, sir, am for you: I serve as good a man as
-you.
-
-Abraham.
-No better.
-
-Sampson.
-Well, sir.
-
-Gregory.
-Say better; here comes one of my master's kinsmen.
-
-Sampson.
-Yes, better, sir.
-
-Abraham.
-You lie.
-
-Sampson.
-Draw, if you be men.--Gregory, remember thy swashing blow.
-
-[They fight.]
-
-[Enter Benvolio.]
-
-Benvolio.
-Part, fools! put up your swords; you know not what you do.
-[Beats down their swords.]
-
-[Enter Tybalt.]
-
-Tybalt.
-What, art thou drawn among these heartless hinds?
-Turn thee Benvolio, look upon thy death.
-
-Benvolio.
-I do but keep the peace: put up thy sword,
-Or manage it to part these men with me.
-
-Tybalt.
-What, drawn, and talk of peace! I hate the word
-As I hate hell, all Montagues, and thee:
-Have at thee, coward!
-
-[They fight.]
-
-[Enter several of both Houses, who join the fray; then enter
-Citizens with clubs.]
-
-1 Citizen.
-Clubs, bills, and partisans! strike! beat them down!
-Down with the Capulets! Down with the Montagues!
-
-[Enter Capulet in his gown, and Lady Capulet.]
-
-Capulet.
-What noise is this?--Give me my long sword, ho!
-
-Lady Capulet.
-A crutch, a crutch!--Why call you for a sword?
-
-Capulet.
-My sword, I say!--Old Montague is come,
-And flourishes his blade in spite of me.
-
-[Enter Montague and his Lady  Montague.]
-
-Montague.
-Thou villain Capulet!-- Hold me not, let me go.
-
-Lady  Montague.
-Thou shalt not stir one foot to seek a foe.
-
-[Enter Prince, with Attendants.]
-
-Prince.
-Rebellious subjects, enemies to peace,
-Profaners of this neighbour-stained steel,--
-Will they not hear?--What, ho! you men, you beasts,
-That quench the fire of your pernicious rage
-With purple fountains issuing from your veins,--
-On pain of torture, from those bloody hands
-Throw your mistemper'd weapons to the ground
-And hear the sentence of your moved prince.--
-Three civil brawls, bred of an airy word,
-By thee, old Capulet, and Montague,
-Have thrice disturb'd the quiet of our streets;
-And made Verona's ancient citizens
-Cast by their grave beseeming ornaments,
-To wield old partisans, in hands as old,
-Canker'd with peace, to part your canker'd hate:
-If ever you disturb our streets again,
-Your lives shall pay the forfeit of the peace.
-For this time, all the rest depart away:--
-You, Capulet, shall go along with me;--
-And, Montague, come you this afternoon,
-To know our farther pleasure in this case,
-To old Free-town, our common judgment-place.--
-Once more, on pain of death, all men depart.
-
-[Exeunt Prince and Attendants; Capulet, Lady Capulet, Tybalt,
-Citizens, and Servants.]
-
-Montague.
-Who set this ancient quarrel new abroach?--
-Speak, nephew, were you by when it began?
-
-Benvolio.
-Here were the servants of your adversary
-And yours, close fighting ere I did approach:
-I drew to part them: in the instant came
-The fiery Tybalt, with his sword prepar'd;
-Which, as he breath'd defiance to my ears,
-He swung about his head, and cut the winds,
-Who, nothing hurt withal, hiss'd him in scorn:
-While we were interchanging thrusts and blows,
-Came more and more, and fought on part and part,
-Till the prince came, who parted either part.
-
-Lady Montague.
-O, where is Romeo?--saw you him to-day?--
-Right glad I am he was not at this fray.
-
-Benvolio.
-Madam, an hour before the worshipp'd sun
-Peer'd forth the golden window of the east,
-A troubled mind drave me to walk abroad;
-Where,--underneath the grove of sycamore
-That westward rooteth from the city's side,--
-So early walking did I see your son:
-Towards him I made; but he was ware of me,
-And stole into the covert of the wood:
-I, measuring his affections by my own,--
-That most are busied when they're most alone,--
-Pursu'd my humour, not pursuing his,
-And gladly shunn'd who gladly fled from me.
-
-Montague.
-Many a morning hath he there been seen,
-With tears augmenting the fresh morning's dew,
-Adding to clouds more clouds with his deep sighs:
-But all so soon as the all-cheering sun
-Should in the farthest east begin to draw
-The shady curtains from Aurora's bed,
-Away from light steals home my heavy son,
-And private in his chamber pens himself;
-Shuts up his windows, locks fair daylight out
-And makes himself an artificial night:
-Black and portentous must this humour prove,
-Unless good counsel may the cause remove.
-
-Benvolio.
-My noble uncle, do you know the cause?
-
-Montague.
-I neither know it nor can learn of him.
-
-Benvolio.
-Have you importun'd him by any means?
-
-Montague.
-Both by myself and many other friends;
-But he, his own affections' counsellor,
-Is to himself,--I will not say how true,--
-But to himself so secret and so close,
-So far from sounding and discovery,
-As is the bud bit with an envious worm
-Ere he can spread his sweet leaves to the air,
-Or dedicate his beauty to the sun.
-Could we but learn from whence his sorrows grow,
-We would as willingly give cure as know.
-
-Benvolio.
-See, where he comes: so please you step aside;
-I'll know his grievance or be much denied.
-
-Montague.
-I would thou wert so happy by thy stay
-To hear true shrift.--Come, madam, let's away,
-
-[Exeunt Montague and Lady.]
-
-[Enter Romeo.]
-
-Benvolio.
-Good morrow, cousin.
-
-Romeo.
-Is the day so young?
-
-Benvolio.
-But new struck nine.
-
-Romeo.
-Ay me! sad hours seem long.
-Was that my father that went hence so fast?
-
-Benvolio.
-It was.--What sadness lengthens Romeo's hours?
-
-Romeo.
-Not having that which, having, makes them short.
-
-Benvolio.
-In love?
-
-Romeo.
-Out,--
-
-Benvolio.
-Of love?
-
-Romeo.
-Out of her favour where I am in love.
-
-Benvolio.
-Alas, that love, so gentle in his view,
-Should be so tyrannous and rough in proof!
-
-Romeo.
-Alas that love, whose view is muffled still,
-Should, without eyes, see pathways to his will!--
-Where shall we dine?--O me!--What fray was here?
-Yet tell me not, for I have heard it all.
-Here's much to do with hate, but more with love:--
-Why, then, O brawling love! O loving hate!
-O anything, of nothing first create!
-O heavy lightness! serious vanity!
-Mis-shapen chaos of well-seeming forms!
-Feather of lead, bright smoke, cold fire, sick health!
-Still-waking sleep, that is not what it is!--
-This love feel I, that feel no love in this.
-Dost thou not laugh?
-
-Benvolio.
-No, coz, I rather weep.
-
-Romeo.
-Good heart, at what?
-
-Benvolio.
-At thy good heart's oppression.
-
-Romeo.
-Why, such is love's transgression.--
-Griefs of mine own lie heavy in my breast;
-Which thou wilt propagate, to have it prest
-With more of thine: this love that thou hast shown
-Doth add more grief to too much of mine own.
-Love is a smoke rais'd with the fume of sighs;
-Being purg'd, a fire sparkling in lovers' eyes;
-Being vex'd, a sea nourish'd with lovers' tears:
-What is it else? a madness most discreet,
-A choking gall, and a preserving sweet.--
-Farewell, my coz.
-
-[Going.]
-
-Benvolio.
-Soft! I will go along:
-An if you leave me so, you do me wrong.
-
-Romeo.
-Tut! I have lost myself; I am not here:
-This is not Romeo, he's some other where.
+All around the world, pretty girls
+Wipe the floor with all the boys
+Pour the drinks, bring the noise (It's Iggy-Iggs!)
+We're just so pretty!
+All around the world, pretty girls
+Jump the line, to the front
+Do what we like, get what we want (Where you at, Brit?)
+We're just so pretty!
+
+Hey, don't you know that it's always the same?
+From Australia 'round to LA
+You can betcha', wherever the girls go, boys follow
+We be keeping them up on their toes
+They can laugh, but they don't get the jokes
+Just you watch, they're so predictable
+(Some things don't change)
+
+(The girls roll up)
+Windows roll down
+(Eyes on us)
+Jaws on the ground
+(Watch them go)
+It's just so funny
+(Like bees to the honey!)
+
+All around the world, pretty girls
+Wipe the floor with all the boys
+Pour the drinks, bring the noise
+We're just so pretty!
+All around the world, pretty girls
+Jump the line, to the front
+Do what we like, get what we want
+We're just so pretty!
+
+Tell me, is it true that these men are from Mars?
+Is that why they be acting bizarre?
+Every time I walk out of my house it's like, "hey, baby!"
+They don't see me rolling my eyes
+They buzzing around me like flies
+They got one thing on their minds
+(Some things don't change)
+
+(The girls roll up)
+Windows roll down
+(Eyes on us)
+Jaws on the ground
+(Watch them go)
+It's just so funny
+(Like bees to the honey!)
+
+All around the world, pretty girls
+Wipe the floor with all the boys
+Pour the drinks, bring the noise
+We're just so pretty!
+All around the world, pretty girls
+Jump the line, to the front
+Do what we like, get what we want
+We're just so pretty!
+
+If you ask me, I'm killing them softly
+I would spend time with you but that'd cost me
+They pray that Iggy-Iggy give 'em one more chance
+But busy Iggy wouldn't even give 'em one more glance
+See, enter in line between the beauty and a beast
+Slim waist, thick cake, the whole world want a piece
+Bad girl, good (ooh) would make you lose your mind
+All of the boys begging Britney, hit 'em one more time
+Iggs!
+
+All around the world, pretty girls
+Wipe the floor with all the boys
+Pour the drinks, bring the noise
+We're just so pretty!
+All around the world, pretty girls
+Jump the line, to the front
+Do what we like, get what we want
+We're just so pretty!
+
+
+
+There's only two types of people in the world
+The ones that entertain, and the ones that observe
+Well baby I'm a put-on-a-show kinda girl
+Don't like the backseat, gotta be first
+I'm like the ringleader
+I call the shots (call the shots)
+I'm like a firecracker
+I make it hot
+When I put on a show
+
+I feel the adrenaline moving through my veins
+Spotlight on me and I'm ready to break
+I'm like a performer, the dance floor is my stage
+Better be ready, hope ya feel the same
+
+[Chorus]
+All the eyes on me in the center of the ring
+Just like a circus
+When I crack that whip, everybody goin' trip
+Just like a circus
+Don't stand there watching me, follow me
+Show me what you can do
+Everybody let go, we can make a dance floor
+Just like a circus
+
+There's only two types of guys out there,
+Ones that can hang with me, and ones that are scared
+So baby I hope that you came prepared
+I run a tight ship so, beware
+I'm like the ringleader
+I call the shots
+I'm like a firecracker
+I make it hot
+When I put on a show
+
+I feel the adrenaline moving through my veins
+Spotlight on me and I'm ready to break
+I'm like a performer, the dance floor is my stage
+Better be ready, hope that ya feel the same
+
+[Chorus]
+
+Let's go
+Let me see what you can do
+I'm runnin' this (like, like, like, like a circus)
+Yeah
+Like a what? (like, like, like, like a circus)
+
+You tell me, you're in love with me
+Like you can't take your pretty eyes away from me
+It's not that I don't want to stay
+But every time you come too close, I move away
+I wanna believe in everything that you say
+'Cause it sounds so good
+But if you really want me, move slow
+There's things about me, you just have to know
+
+Sometimes I run
+Sometimes I hide
+Sometimes I'm scared of you
+But all I really want is to hold you tight
+Treat you right, be with you day and night
+Baby, all I need is time
+
+I don't wanna be so shy
+Every time that I'm alone, I wonder why
+Hope that you will wait for me
+You'll see that you're the only one for me
+I wanna believe in everything that you say
+'Cause it sounds so good
+But if you really want me, move slow
+There's things about me, you just have to know
+
+Sometimes I run
+Sometimes, sometimes I hide
+Sometimes I'm scared of you
+But all I really want is to hold you tight
+Treat you right, be with you day and night
+All I really want is to hold you tight
+Treat you right, be with you day and night
+Baby, all I need is time
+
+Come, just hang around and you'll see
+There's nowhere I'd rather be
+If you love me, trust in me
+The way that I trust in you
+
+Sometimes I run
+Sometimes I hide
+Sometimes I'm scared of you
+All I really want is to hold you tight
+Treat you right, be with you day and night
+
+Sometimes I run
+Sometimes I hide
+Sometimes I'm scared of you
+All I really want is to hold you tight
+Treat you right, be with you day and night
+All I really want is to hold you tight
+Be with you day and night
+
+Sometimes I run
+Sometimes I hide
+Sometimes I'm scared of you
+All I really want is to hold you tight
+Treat you right, be with you day and night
+
+La, la, la, la-la, la, la, la
+La, la, la, la-la, la, la, la
+La, la, la, la-la, la, la, la
+La, la, la, la-la, la, la, la
+
+Oh baby, baby, have you seen Amy tonight?
+Is she in the bathroom, is she smokin' up outside? (Oh!)
+Oh baby, baby, does she take a piece of lime
+For the drink that I'mma buy her, do you know just what she likes? (Oh!)
+
+Oh (Oh)
+Tell me have you seen her, cause I'm so (Oh)
+I can't get her off of my brain
+I just wanna go, to the party she gon' go
+Can't somebody take me home?
+Haha, hehe, haha, ho
+
+Love me, hate me
+Say what you want about me
+But all of the boys and all of the girls
+Are begging to if you seek Amy
+
+Love me, hate me
+But can't you see what I see?
+All of the boys and all of the girls
+Are begging to if you seek Amy
+
+(Love me, hate me) La, la, la, la-la, la, la, la
+La, la, la, la-la, la, la, la
+
+Amy told me that she's gonna meet me up
+I don't know where or when and now they're closin' up the club (Oh!)
+I've seen her once or twice before she knows my face
+But it's hard to see with all the people standin' in the way (Oh!)
+
+Oh (Oh)
+Tell me have you seen her, cause I'm so (Oh)
+I can't get her off of my brain
+I just wanna go, to the party she gon' go
+Can't somebody take me home?
+Haha, hehe, haha, ho
+
+Love me, hate me
+Say what you want about me
+But all of the boys and all of the girls
+Are begging to if you seek Amy
+
+Love me, hate me
+But can't you see what I see?
+All of the boys and all of the girls
+Are begging to if you seek Amy
+
+(Love me, hate me) Ohhhh, say what you want about me
+Ohhhh, but can't you see what I see?
+(Love me, hate me) Yeahh, say what you want about me
+(La, la, la, la-la, la, la, la)
+
+So tell me if you see her
+(Let me know what she was wearing and what she was like)
+Cause I've been waiting here forever
+(Let me know where she was going I don't mind)
+
+Oh baby, baby, if you seek Amy tonight (Oh!)
+Oh baby, baby, we'll do whatever you'll like
+Oh baby, baby, baby
+Oh baby, baby, baby...
+
+La, la, la, la-la, la, la, la
+La, la, la, la-la, la, la, la
+La, la, la, la-la, la, la, la
+La, la, la, la-la, la, la, la
+
+Love me, hate me
+Say what you want about me
+But all of the boys and all of the girls
+Are begging to if you seek Amy
+
+Love me, hate me
+But can't you see what I see?
+All of the boys and all of the girls
+Are begging to if you seek Amy
+
+Love me, hate me
+Say what you want about me (Yeaaaah)
+(La, la, la, la-la, la, la, la) (Yeah)
+
+Love me, hate me
+But can't you see what I see?
+All of the boys and all of the girls
+Are begging to if you seek Amy
+
+(Love me, hate me) Ohhhh, say what you want about me
+Ohhhh, but can't you see what I see?
+(Love me, hate me) Yeahh, say what you want about me
+
+All of the boys and all of the girls
+Are begging to if you seek Amy
+
+Oh baby, baby
+How was I supposed to know
+That something wasn't right here
+Oh baby, baby
+I shouldn't have let you go
+And now you're out of sight, yeah
+Show me how you want it to be
+Tell me baby 'cause need to know now, oh because
+
+[Chorus]
+My loneliness is killing me
+And I, I must confess I still believe, still believe, still believe
+When I'm not with you I lose my mind
+Give me a sign
+Hit me baby one more time
+
+Oh baby, baby
+The reason I breathe is you
+Boy you got me blinded
+Oh pretty baby
+There's nothing that I wouldn't do
+It's not the way I planned it
+Show me how you want it to be
+Tell me baby 'cause I need to know now, oh because
+
+[Chorus]
+
+Oh baby, baby how was I supposed to know
+Oh pretty baby, I shouldn't have let you go
+I must confess, that my loneliness is killing me now
+Don't you know I still believe
+That you will be here
+And give me a sign
+Hit me baby one more time
+
+Yeah yeah yeah yeah yeah
+Yeah yeah yeah yeah yeah yeah
+
+I think I did it again
+I made you believe we're more than just friends
+Oh baby
+It might seem like a crush
+But it doesn't mean that I'm serious
+'Cause to lose all my senses
+That is just so typically me
+Oh baby, baby
+
+[Chorus]
+Oops, I did it again
+I played with your heart, got lost in the game
+Oh baby, baby
+Oops, you think I'm in love
+That I'm sent from above
+I'm not that innocent
+
+You see my problem is this
+I'm dreaming away
+Wishing that heroes, they truly exist
+I cry, watching the days
+Can't you see I'm a fool in so many ways
+But to lose all my senses
+That is just so typically me
+Oh baby, oh
+
+[Chorus]
+
+Yeah yeah yeah yeah yeah yeah
+Yeah yeah yeah yeah yeah yeah
+
+"All aboard"
+"Britney, before you go, there's something I want you to have"
+"Oh, it's beautiful, but wait a minute, isn't this?"
+"Yeah, yes it is"
+"But I thought the old lady dropped it into the ocean in the end"
+"Well baby, I went down and got it for you"
+"Aww, you shouldn't have"
+
+Oops, I did it again to your heart
+Got lost in this game, oh baby
+Oops, you think that I'm sent from above
+I'm not that innocent
+
+(It's Britney bitch)
+(I see you)
+(And I just want to dance with you)
+
+Every time they turn the lights down
+Just want to go that extra mile for you
+You public display of affection
+Feels like no one else in the room (but you)
+
+We can get down like there's no one around
+We'll keep on rockin' (We'll keep on rockin')
+We'll keep on rockin' (Keep on rockin')
+Cameras are flashin' while we're dirty dancin'
+They keep watching (They keep watching)
+Keep watching
+
+Feels like the crowd is saying
+
+Gimme, Gimme more
+Gimme, More
+Gimme, Gimme, More
+Gimme, Gimme more
+Gimme, More
+Gimme, Gimme, More
+Gimme, Gimme more
+Gimme, More
+Gimme, Gimme, More
+Gimme, Gimme more
+Gimme, More
+Gimme, Gimme, More
+
+A center of attention (Can you feel them?)
+Even when we're up against the wall
+You've got me in a crazy position (yeah)
+If you're on a mission (uh-uh)
+You got my permission (oh)
+
+We can get down like there's no one around
+We'll keep on rockin' (Keep on rockin')
+We'll keep on rockin', rockin' (Oh ah ha)
+Cameras are flashin' while we're dirty dancin'
+They keep watching (They keep watching)
+Keep watching
+
+Feel's like the crowd is saying:
+
+Gimme, Gimme more
+Gimme, More
+Gimme, Gimme, More
+Gimme, Gimme more
+Gimme, More
+Gimme, Gimme, More
+Gimme, Gimme more
+Gimme, More
+Gimme, Gimme, More
+Gimme, Gimme more
+Gimme, More
+Gimme, Gimme, More
+
+(I just can't control myself)
+(Woah!)
+(Do you want more?)
+(Well We'll Give 'em More)
+
+(Ow)
+
+Gimme, Gimme more
+Gimme, More
+Gimme, Gimme, More (Gimme more)
+Gimme, Gimme more
+Gimme, More
+Gimme, Gimme, More (Oh woah oh!)
+Gimme, Gimme more
+Gimme, More
+Gimme, Gimme, More
+Gimme, Gimme more (Gimme more, yeah)
+Gimme, More
+Gimme, Gimme, More
+
+Give me more, give me more
+Give me more, give me more babe (Danja Danja, Danj)
+I just want more!
+
+Gimme, Gimme
+Gimme
+Gimme, Gimme
+Gimme, Gimme
+Gimme
+Gimme, Gimme
+Gimme, Gimme
+Gimme
+Gimme, Gimme
+Gimme, Gimme
+Gimme,
+Gimme, Gimme
+
+Bet you didn't see this one comin
+The incredible ligo
+The legendary Ms. Britney Spears
+And the unstoppable Danja
+You're gonna have to remove me
+Cause I ain't goin nowhere
+
+I know I may be young
+But I've got feelings too
+And I need to do what I feel like doing
+So let me go and just listen
+
+All you people look at me like I'm a little girl
+Well, did you ever think it'd be okay for me to step into this world?
+Always saying "Little girl, don't step into the club"
+Well I'm just trying to find out why, 'cause dancing's what I love, yeah (Now watch me)
+
+Get it-get it, get it-get it, what?
+Get it-get it, get it-get it, what?
+Get it-get it, get it-get it, what?
+(This feels good)
+
+I know I may come off quiet, may come off shy
+But I feel like talking, feel like dancing when I see this guy
+What's practical? it's logical? What the hell? Who cares?
+All I know is I'm so happy when you're dancing there, yeah
+
+I'm a slave for you
+I can not hold it, I can not control it
+I'm a slave for you
+I won't deny it, I'm not trying to hide it
+
+Baby, don't you want to dance up on me?
+(I just want to dance next to you)
+To another time and place
+Oh baby, don't you want to dance up on me?
+(Are you ready?)
+Leaving behind my name and age
+
+Let's go
+Like that
+Do you like it?
+Yeah? Now watch me!
+
+Get it-get it, get it-get it, what?
+Get it-get it, get it-get it, what?
+Get it-get it, get it-get it, what?
+(This feels good)
+
+I really want to dance tonight with you
+(I just can't help myself)
+I really want to do what you want me to
+(I just got to let myself go)
+
+I really want to dance tonight with you
+(I want to see you move)
+I really want to do what you want me to
+
+Baby, don't you want to dance up on me?
+(I just want to dance next to you)
+To another time and place
+Oh baby, don't you want to dance up on me?
+(Are you ready?)
+Leaving behind my name and age
+
+I'm a slave for you
+I can not hold it, I can not control it
+I'm a slave for you
+(It just feels right, it just feels good)
+I won't deny it, I'm not trying to hide it
+
+Get it-get it, get it-get it, what?
+Get it-get it, get it-get it, what?
+Get it-get it, get it-get it, what?
+(Just move with me)
+
+Get it-get it, get it-get it, what?
+Get it-get it, get it-get it, what?
+Get it-get it, get it-get it, what?
+
+I'm a slave for you
+(Here we go now, here we go now)
+I can not hold it
+I can not control it
+(You like the way I move huh?)
+
+I'm a slave for you
+(Here we go)
+I won't deny it
+(Yeah, yeah)
+I'm not trying to hide it
+(Yeah, like that)
+
+Oh hey, yeah
+
+Hush, just stop
+There's nothing you can do or say, baby
+I've had enough
+I'm not your property as from today, baby
+You might think that I won't make it on my own
+But now I'm
+
+Stronger, than yesterday
+Now it's nothing but my way
+My loneliness ain't killing me no more
+I, I'm stronger
+
+Than I ever thought that I could be, baby
+I used to go with the flow
+Didn't really care 'bout me
+You might think that I can't take it, but you're wrong
+'Cause now I'm
+
+Stronger, than yesterday
+Now it's nothing but my way
+My loneliness ain't killing me no more
+I, I'm stronger
+
+Come on, now
+Oh, yeah
+
+Here I go, on my own
+I don't need nobody, better off alone
+Here I go, on my own now
+I don't need nobody, not anybody
+Here I go, here I go, here I go
+Alright
+Here I go, here I go, here I go
+
+Stronger, than yesterday
+It's nothing but my way
+My loneliness ain't killing me no more
+I'm stronger, than yesterday
+Now it's nothing but my way
+My loneliness ain't killing me no more
+Now I'm stronger, than yesterday
+Now it's nothing but my way
+My loneliness ain't killing me no more
+I'm stronger!
+
+You don't have to look like a movie star
+Ooh I think you're good just the way you are
+Tell me if you could would you up and run away, with me?
+
+You don't have to roll like a millionaire
+Baby I would go with you anywhere
+We don't need no gold, we'll be shining anyway, we'll see
+
+You know can nobody get down like us
+We don't fuck 'till we get enough
+C'mon, turn it up 'till the speakers pop
+Break it down, show me what you got
+
+Ooh my my baby don't be shy
+I see that spark flashing in your eye
+My heart beats fast 'cause I want it all
+So baby come with me and be my ooh la la
+
+Take my hand, we can go all night
+And spin me round just the way I like
+It feels so good, I don't wanna stop
+So baby come with me and be my ooh la la
+
+You don't have to wear no designer clothes
+Just as long as we're dancing on the floor
+Fingers in my hair and I'm letting go tonight, so free
+
+You know can nobody get down like us
+We don't fuck 'till we get enough
+C'mon, turn it up 'till the speakers pop
+Break it down, show me what you got
+
+Ooh my my baby don't be shy
+I see that spark flashing in your eye
+My heart beats fast 'cause I want it all
+So baby come with me and be my ooh la la
+
+Take my hand, we can go all night
+And spin me round just the way I like
+It feels so good, I don't wanna stop
+So baby come with me and be my ooh la la
+
+(Be my ooh la la)
+
+Ooh my my baby don't be shy
+I see that spark flashing in your eye
+
+Ooh my my baby don't be shy
+I see that spark flashing in your eye
+My heart beats fast 'cause I want it all
+So baby come with me and be my ooh la la
+
+Take my hand, we can go all night
+And spin me round just the way I like
+It feels so good, I don't wanna stop
+So baby come with me and be my ooh la la
+
+Baby come with me and be my ooh la la
+So baby come with me and be my ooh la la
