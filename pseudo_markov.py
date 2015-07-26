@@ -20,12 +20,14 @@ def generatePhrase(t1, n):
     return phrase
 
 
-def findPhrase(startWord, corpus, n):
+def findPhrase(st1, corpus, n):
     st = corpus.lower() #.split()
+
+    
 
     #TODO: don't just use the fist one you see! Set up a more glamorous
     # algo that randomly chooses an instance of this word
-    location = st.find(startWord.lower())
+    location = st.find(st1.lower())
 
     if (location>=0 and location+ 50 <= len(st)  ):
         return st[location: location+50]
