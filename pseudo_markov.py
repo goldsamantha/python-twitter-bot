@@ -75,8 +75,16 @@ def getSubset(foundString, corpus):
     # print found_matches
     return found_matches[randrange(0,len(found_matches))]
 
-def getFullString(file1, file2):
-    return 0
+def getFullString(file1, file2, n1, n2):
+    phrase = generatePhrase(file1, n1)
+    # print "FIRST PHRASE: " ,phrase
+    # print "SECOND PHRASE: ", findPhrase(phrase.split()[-1].lower(), s_fl, 3)
+    val = findPhrase(phrase, file2, n2)
+    if val is not False:
+        second_string = getSubset(val, s_fl)
+        phrase = phrase + " "+second_string
+
+    return phrase
 
 
 
@@ -84,13 +92,15 @@ if __name__ == '__main__':
     b_fl = open('data/bspears_sample.txt','r').read()
     s_fl = open('data/shakes_sample.txt', 'r').read()
     n=8
-    phrase = generatePhrase(b_fl, n)
-    print "FIRST PHRASE: " ,phrase
-    # print "SECOND PHRASE: ", findPhrase(phrase.split()[-1].lower(), s_fl, 3)
-    val = findPhrase(phrase, s_fl, 3)
-    if val is not False:
-        second_string = getSubset(val, s_fl)
-        print phrase + " "+second_string
+
+    print getFullString(b_fl, s_fl, 8, 3)
+    # phrase = generatePhrase(b_fl, n)
+    # print "FIRST PHRASE: " ,phrase
+    # # print "SECOND PHRASE: ", findPhrase(phrase.split()[-1].lower(), s_fl, 3)
+    # val = findPhrase(phrase, s_fl, 3)
+    # if val is not False:
+    #     second_string = getSubset(val, s_fl)
+    #     print phrase + " "+second_string
     # print val
 
 
