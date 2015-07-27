@@ -7,6 +7,7 @@ This function takes in text1, text2, and n
 
 
 from random import *
+import re
 
 def generatePhrase(t1, n):
     # print T1[:5], "more: ", len(T2)
@@ -20,47 +21,77 @@ def generatePhrase(t1, n):
     return phrase
 
 
-def findPhrase(st1, corpus, n):
-    st = corpus.lower() #.split()
 
-    searchPhraseLs = st1.split()
-    if (len(searchPhraseLs)<=n):
-        searchPhrase = st1.lower()
+def findPhrase(phrase, corpus, n):
+    #TODO: one problem with this method is that it will result in
+    # substrings matching but not necessarily full strings matching
+    corpus = corpus.lower()
+
+
+    #Perform some regex to clean up this data
+    phraseList = phrase.lower().split()
+    if len(phraseList)> n:
+        phraseList = phraseList[-n:]
+
+    #TODO: may need the below...unsure
+    # elif len(phraseList) < n:
+    #     n = len(phraseList)
+
+    lcPhrase = " ".join(phraseList)
+    location = corpus.find( lcPhrase )
+
+    if location>0:
+        return lcPhrase
+
+    elif n>0:
+        return findPhrase(" ".join(phraseList[1:]), corpus, n-1)
+
     else:
-        #TODO: check that this passes at correct index
-        searchPhrase = " ".join(searchPhraseLs[len(searchPhraseLs)-n:]).lower()
-
-    print "Search phrase is: " , searchPhrase
+        return False
 
 
 
+def getSubset(foundString, corpus):
+    """
+    foundString: a STRING that has been proven to exist inside the corpus
+    corpus: a STRING that contains the full corpus
 
-    #TODO: don't just use the fist one you see! Set up a more glamorous
-    # algo that randomly chooses an instance of this word
-    location = st.find(searchPhrase)
+    """
+    corpus_ls = corpus.split()
+    found_str_ls = foundString.split()
+    len_fsl = len(found_str_ls)
 
-    if (location>=0 and location+ 50 <= len(st)  ):
-        return st[location: location+50]
+    found_matches = []
+    to_end = 10
+    for i in range(len(corpus_ls)- (len_fsl+to_end)):
+        if " ".join(corpus_ls[i:i+len_fsl]) == foundString:
+            new_str = " ".join(corpus_ls[i+len_fsl: i+len_fsl+to_end])
+            # print "Found!: ", new_str
+            # print "Found object" , " ".join(corpus_ls[i+len_fsl: i+len_fsl+to_end])
+            # found_matches.append(" ".join(corpus_ls[i+len_fsl: i+len_fsl+to_end]))
+            found_matches.append(new_str)
 
-    elif (len(searchPhraseLs)>1):
-        print "is empty?: ", searchPhraseLs #(searchPhraseLs[0] == '')
-        return findPhrase(" ".join(searchPhraseLs[len(searchPhraseLs)-n:]), corpus,n-1)
 
-    else:
-        return -1
+    # print found_matches
+    return found_matches[randrange(0,len(found_matches))]
+
+def getFullString(file1, file2):
+    return 0
 
 
 
 if __name__ == '__main__':
-    b_fl = open('data/bspears_sample.txt','r')
-    brit = b_fl.read()
+    b_fl = open('data/bspears_sample.txt','r').read()
     s_fl = open('data/shakes_sample.txt', 'r').read()
     n=8
-    phrase = generatePhrase(brit, n)
+    phrase = generatePhrase(b_fl, n)
     print "FIRST PHRASE: " ,phrase
     # print "SECOND PHRASE: ", findPhrase(phrase.split()[-1].lower(), s_fl, 3)
     val = findPhrase(phrase, s_fl, 3)
-    print val
+    if val is not False:
+        second_string = getSubset(val, s_fl)
+        print phrase + " "+second_string
+    # print val
 
 
     # main()
