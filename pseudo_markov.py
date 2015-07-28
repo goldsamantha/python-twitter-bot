@@ -22,9 +22,7 @@ def generatePhrase(t1, n):
 
 
 
-def findPhrase(phrase, corpus, n):
-    #TODO: one problem with this method is that it will result in
-    # substrings matching but not necessarily full strings matching
+def phraseInCorpus(phrase, corpus, n):
     corpus = corpus.lower()
 
 
@@ -33,18 +31,20 @@ def findPhrase(phrase, corpus, n):
     if len(phraseList)> n:
         phraseList = phraseList[-n:]
 
-    #TODO: may need the below...unsure
+    #TODO: may need the below...
     # elif len(phraseList) < n:
     #     n = len(phraseList)
 
     lcPhrase = " ".join(phraseList)
-    location = corpus.find( lcPhrase )
+    location = corpus.find( " "+lcPhrase+" " )
+    # print "Ph: ", lcPhrase, "Loc: ", location
+    # print "Phrase in Corpus: ", corpus[location: location+50]
 
     if location>0:
         return lcPhrase
 
     elif n>0:
-        return findPhrase(" ".join(phraseList[1:]), corpus, n-1)
+        return phraseInCorpus(" ".join(phraseList[1:]), corpus, n-1)
 
     else:
         return False
@@ -66,22 +66,19 @@ def getSubset(foundString, corpus):
     for i in range(len(corpus_ls)- (len_fsl+to_end)):
         if " ".join(corpus_ls[i:i+len_fsl]) == foundString:
             new_str = " ".join(corpus_ls[i+len_fsl: i+len_fsl+to_end])
-            # print "Found!: ", new_str
-            # print "Found object" , " ".join(corpus_ls[i+len_fsl: i+len_fsl+to_end])
-            # found_matches.append(" ".join(corpus_ls[i+len_fsl: i+len_fsl+to_end]))
             found_matches.append(new_str)
 
 
-    # print found_matches
+    # print "\nMATCHES: ", found_matches
     return found_matches[randrange(0,len(found_matches))]
 
 def getFullString(file1, file2, n1, n2):
     phrase = generatePhrase(file1, n1)
     # print "FIRST PHRASE: " ,phrase
     # print "SECOND PHRASE: ", findPhrase(phrase.split()[-1].lower(), s_fl, 3)
-    val = findPhrase(phrase, file2, n2)
+    val = phraseInCorpus(phrase, file2, n2)
     if val is not False:
-        second_string = getSubset(val, s_fl)
+        second_string = getSubset(val, file2)
         phrase = phrase + " "+second_string
 
     return phrase
@@ -94,14 +91,3 @@ if __name__ == '__main__':
     n=8
 
     print getFullString(b_fl, s_fl, 8, 3)
-    # phrase = generatePhrase(b_fl, n)
-    # print "FIRST PHRASE: " ,phrase
-    # # print "SECOND PHRASE: ", findPhrase(phrase.split()[-1].lower(), s_fl, 3)
-    # val = findPhrase(phrase, s_fl, 3)
-    # if val is not False:
-    #     second_string = getSubset(val, s_fl)
-    #     print phrase + " "+second_string
-    # print val
-
-
-    # main()
