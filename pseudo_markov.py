@@ -32,13 +32,11 @@ def phraseInCorpus(phrase, corpus, n):
         phraseList = phraseList[-n:]
 
     #TODO: may need the below...
-    # elif len(phraseList) < n:
-    #     n = len(phraseList)
+    elif len(phraseList) < n:
+        n = len(phraseList)
 
     lcPhrase = " ".join(phraseList)
     location = corpus.find( " "+lcPhrase+" " )
-    # print "Ph: ", lcPhrase, "Loc: ", location
-    # print "Phrase in Corpus: ", corpus[location: location+50]
 
     if location>0:
         return lcPhrase
@@ -72,22 +70,32 @@ def getSubset(foundString, corpus):
     # print "\nMATCHES: ", found_matches
     return found_matches[randrange(0,len(found_matches))]
 
+
+
+
 def getFullString(file1, file2, n1, n2):
     phrase = generatePhrase(file1, n1)
-    # print "FIRST PHRASE: " ,phrase
-    # print "SECOND PHRASE: ", findPhrase(phrase.split()[-1].lower(), s_fl, 3)
-    val = phraseInCorpus(phrase, file2, n2)
-    if val is not False:
-        second_string = getSubset(val, file2)
-        phrase = phrase + " "+second_string
+    count = 0
+    val = False
 
-    return phrase
+    while (val==False and count<200):
+        val = phraseInCorpus(phrase, file2, n2)
+        if val is not False:
+            second_string = getSubset(val, file2)
+            phrase = phrase + " "+second_string
+            return phrase
+        count += 1
 
+    return
 
 
 if __name__ == '__main__':
     b_fl = open('data/bspears_sample.txt','r').read()
-    s_fl = open('data/shakes_sample.txt', 'r').read()
+    s_fl = open('data/full_shakespeare.txt', 'r').read()
     n=8
 
+    print '\n'+ '*'*20
+
     print getFullString(b_fl, s_fl, 8, 3)
+
+    print '\n'+ '*'*20
